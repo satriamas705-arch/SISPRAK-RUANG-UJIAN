@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Pembagian Ruang Ujian Otomatis",
+  "description": "Aplikasi cerdas pembagian ruang ujian siswa otomatis berbasis Nomor Induk Sekolah (NIS) dengan ekspor Excel dan PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
